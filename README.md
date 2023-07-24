@@ -1,4 +1,5 @@
-### Hi there 👋
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=40&pause=1000&color=757575&background=FFFFFF00&center=true&vCenter=true&width=800&height=48&lines=Sina+Saharkhiz" alt="Typing SVG" /></a>
 
 <!--
 **Sinasaharkhiiz/Sinasaharkhiiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
