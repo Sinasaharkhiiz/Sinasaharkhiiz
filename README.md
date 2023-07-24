@@ -1,5 +1,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=40&pause=1000&color=757575&background=FFFFFF00&center=true&vCenter=true&width=800&height=48&lines=Sina+Saharkhiz" alt="Typing SVG" /></a>
+<hr>
 
 # 💫 About Me:
 Software Engineering Student at Hamedan University of technology.<br>
@@ -20,9 +21,9 @@ i'm learning laravel framework.
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
   # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sinasaharkhiiz&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sinasaharkhiiz&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinasaharkhiiz&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Sinasaharkhiiz&theme=radical&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinasaharkhiiz&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+
+
 <!--
 **Sinasaharkhiiz/Sinasaharkhiiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
