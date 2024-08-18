@@ -4,8 +4,7 @@
 
 # 💫 About Me:
 Software Engineering Student at Hamedan University of technology.<br>
-php developer.<br>
-i'm learning laravel framework.
+Laravel developer
 
 ## 🌐 Socials:
 <p align="center"><a href="mailto:sinasaharkhiiz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-sinasaharkhiiz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sinasaharkhiiz@gmail.com" alt="Gmail" /></a>&nbsp; <a href="https://www.linkedin.com/in/sina-s-a14161217" target="_blank"><img src="https://img.shields.io/badge/-sina saharkhiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sina-s-a14161217" alt="LinkedIn" /></a>&nbsp;
